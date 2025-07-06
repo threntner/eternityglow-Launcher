@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+
+# Config/Sensitive
+config.py
+launcher_settings.json
+*.log
+
+# Build/Release
+dist/
+build/
+*.exe
+*.msi
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
