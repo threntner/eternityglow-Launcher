@@ -1,10 +1,8 @@
 # EternityGlow Launcher
 
-A feature-rich osu! launcher with:
+![Application Screenshot](screenshot.png)
 
+Features:
 - Server switching (Bancho/EternityGlow)
-- Tablet area calibration tool
-- Discord Rich Presence integration
-- Designed for eternityglow.de
-
-![Screenshot](screenshot.png)  
+- Tablet area calibration
+- Discord Rich Presence
